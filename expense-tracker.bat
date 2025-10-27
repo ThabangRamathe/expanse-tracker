@@ -1,0 +1,1 @@
+python C:\Users\radic\Desktop\Projects\roadmap\expense-tracker-cli\expense-tracker.py %*
